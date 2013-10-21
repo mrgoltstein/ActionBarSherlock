@@ -1,6 +1,7 @@
 Change Log
 ===============================================================================
 
+<<<<<<< HEAD
 Version 4.4.0 *(2013-07-28)*
 ----------------------------
 
@@ -26,6 +27,11 @@ Version 4.3.0 *(2013-04-15)*
  * New: FEST module for testing ActionBarSherlock classes.
  * New: i18n module for including internationalized strings used by actionbar.
  * Removed dialog themes.
+=======
+Version 4.2.1 *(In Development)*
+--------------------------------
+
+>>>>>>> parent of 601bde2... Remove dialog themes which did not even have real action bars.
  * Fix: `SearchView` suggestions now work properly.
  * Fix: Prevent rare NPE when restoring state on pre-Honeycomb devices.
  * Fix: Correct behavior of `IcsColorDrawable`'s `setAlpha` method.
